@@ -6,7 +6,7 @@ Currently Living in Poland.
 I speak 3 languages: English, Polish and Japanese.
 
 ## 📫 Contact me saff.christopher@gmail.com
-## 🔭 Visit my website [http](https://www.christophersaffron.com/)
+## 🔭 Visit my website [www.christophersaffron.com](https://www.christophersaffron.com/)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
