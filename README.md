@@ -8,6 +8,8 @@ I speak 3 languages: English, Polish and Japanese.
 ## 📫 Contact me saff.christopher@gmail.com
 ## 🔭 Visit my website [www.christophersaffron.com](https://www.christophersaffron.com/)
 
+## Current tech stack:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +34,7 @@ I speak 3 languages: English, Polish and Japanese.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%2369C2D6.svg?style=for-the-badge&logo=davinciresolve&logoColor=%23a81cff)
+
 
 
 <!--
