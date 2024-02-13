@@ -1,5 +1,5 @@
-# Welcome! 👋
-I'm Chris. An aspiring Fullstack Web Developer who's currently working in civil engineering and utilizing code in daily work and life.
+# Hello there! 👋
+I'm Chris. An aspiring Fullstack Web Developer who's worked in civil engineering. I love utilizing code in my work and daily life.
 
 Currently Living in Poland. 
 
